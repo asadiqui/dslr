@@ -4,6 +4,8 @@ __pycache__/
 venv/
 .ipynb_checkpoints/
 .DS_Store
+dslr.txt
+IMPLEMENTATION_REPORT.md
 
 # generated outputs
 houses.csv
